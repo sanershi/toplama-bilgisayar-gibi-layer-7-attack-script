@@ -1,1 +1,2 @@
-# toplama-bilgisayar-gibi-layer-7-attack-script
+# Toplama bilgisayar gibi layer7 attack script
+sorumluluk kabulüm değildir

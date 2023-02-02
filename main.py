@@ -71,6 +71,7 @@ useragent = input(stage(f"User-Agent {purple}[{white}{fluo2}HEADER{white} da bul
 cookie = input(stage(f"Cookie {purple}[{white}{fluo2}HEADER{white} da bulabilirsiniz{purple}] {purple}->{fluo2} ", '?'))
 contenttype = input(stage(f"Content-Type {purple}[{white}{fluo2}HEADER{white} da bulabilirsiniz{purple}] {purple}->{fluo2} ", '?'))
 accept = input(stage(f"Accept {purple}[{white}{fluo2}HEADER{white} da bulabilirsiniz{purple}] {purple}->{fluo2} ", '?'))
+print("by saner")
 
 headers = {
     'referer':referer,
